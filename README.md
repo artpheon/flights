@@ -2,8 +2,8 @@
 
 Как запустить проект:
 
-1) Необходимо установить Visual Studio 2019 по ссылке: https://visualstudio.microsoft.com/ru/downloads/ (на Mac установить Visual Studio можно черезManaged Software Center).
-2) Склонировать репозиторий по ссылке: https://github.com/artpheon/flights.git , либо скачать архивом https://github.com/artpheon/flights/archive/refs/heads/master.zip
+1) Необходимо установить Visual Studio 2019 по ссылке: https://visualstudio.microsoft.com/ru/downloads/ (на Mac установить Visual Studio можно через Managed Software Center).
+2) Склонировать репозиторий по ссылке: https://github.com/artpheon/flights.git , либо скачать архивом https://github.com/artpheon/flights/archive/refs/heads/master.zip и разархивировать его в любую папку.
 3) Запустить VS-проект: в скачанном репозитории запустить файл "RESTfulAPI.sln"
 *После загрузки проекта VS может предложить загрузить недостающие пакеты: в обозревателе решений появится соответствующее сообщение. Необходимо выбрать "Установить". После - пункт 5.
 5) В открывшемся окне Visual Studio вверху выбрать вкладку Debug/Отладка, далее - Запуск без отладки/Start Without Debugging, либо нажать комбинацию клавиш Ctrl+F5.
